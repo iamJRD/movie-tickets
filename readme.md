@@ -1,31 +1,31 @@
-# Movie Tickets
+# Movie Ticket Cost Calculator
 
-#### This application returns a movie ticket and it's cost based on user inputs.
-#### January 26, 2016
+#### By: Jared Beckler | Epicodus | January 2016
 
-#### By Molly Curtin and Jared Beckler
+This project is further exploration of HTML/CSS/JavaScript/jQuery and is used to create a site to take in user inputs and give them a movie ticket cost based on those inputs.
 
-## Description
+## Installation
 
-A web application that takes in a user's movie choice, time preference and age to make a ticket that includes the cost.
+* `git clone https://github.com/jaredbeckler/movie-tickets` this repository
+* Change into the new directory
+* Drag `index.html` into a web browser to view the page
+
+## Known Bugs
+
+There are currently no known bugs.
+
+## Support and contact details
+
+If you have any issues, questions, ideas, or concerns contact me through GitHub. If you would like to make a contribution to the code, feel free to do so and notify me by e-mail.
 
 ## Technologies Used
 
 * HTML
 * CSS
-* JavaScript
-* JQuery
-* Atom
-* Terminal
-* Chai
-* Mocha
 * Bootstrap
-* BDD
-
-###Movie Tickets can be viewed at https://github.com/patternandshape/movie-tickets
+* JavaScript
+* jQuery
 
 ### License
 
-*Licensed under GPL.*
-
-&copy;2016 **Molly Curtin and Jared Beckler**
+Copyright &copy; 2016  |  Jared Beckler  |  Epicodus  |  Portland, OR
